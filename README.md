@@ -5,7 +5,8 @@
 </a> 
 
 <h4 align="left">About me:</h4>
-I'm a french developer. I mainly master the Java and PHP (back-end language). I have good knowledge of MongoDB, Redis and MySQL.
+I'm a french developer. I mainly master the Java and JavaScript/TypeScript (back-end language). I have good knowledge of databases MongoDB, Redis and MySQL.
+For the front-end developpement is use React (my bby) and Angular.
 
 <h4 align="left">My Knowledge:</h4>
 <p align="left"> 
